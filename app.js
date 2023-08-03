@@ -49,3 +49,12 @@
 // document.write("6) " +colors[5] + "<br>");
 // document.write("7) " +colors[6] + "<br>");
 // document.write("8) " +colors[7] + "<br>");
+
+
+//********** Array with sort method  *********/
+
+// var scores = ["320","230","120","440","310","500"];
+
+// document.write("Score of students : " + scores + "<br>","<br>");
+// scores.sort();
+// document.write("Order by score of students : " +scores);
