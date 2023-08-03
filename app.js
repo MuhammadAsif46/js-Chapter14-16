@@ -16,3 +16,16 @@
 // document.write("6) " + qualification[5] + "<br>");
 // document.write("7) " + qualification[6] + "<br>");
 // document.write("8) " + qualification[7] + "<br>","<br>");
+
+
+//********** Score and percentage of students like *********/
+
+// var stdNames = ["Asif","Saleem","Ahmed"];
+// var stdscore = [280,340,460];
+// var per = (stdscore[0]) * 100 / 500;
+// var per1 = (stdscore[1]) * 100 / 500;
+// var per2 = (stdscore[2]) * 100 / 500;
+
+// document.write("Score of " + stdNames[0] + " is " + stdscore[0] + ".Percentage is: " + per +" %" +"<br>");
+// document.write("Score of " + stdNames[1] + " is " + stdscore[1] + ".Percentage is: " + per1 +" %" + "<br>");
+// document.write("Score of " + stdNames[2] + " is " + stdscore[2] + ".Percentage is: " + per2 +" %");
