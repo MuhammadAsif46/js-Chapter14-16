@@ -76,3 +76,18 @@
 // document.write("Array :" + "<br>" + joined + "<br>"+ "<br>");
 
 // document.write("String :" + "<br>" + joined.join(" "));
+
+
+//********** Create array & Fifo practice  *********/
+
+// var fifo = ["First","In","Fisrt","Out"];
+
+// document.write(" 1) FIFO : "+ "<br>" + fifo +"<br>"+ "<br>");
+
+// var devices = ["keyboard","mouse","printer","moniter"]
+
+// document.write("2) Devices :" + "<br>" + devices + "<br>"+"<br>");
+// document.write("Out :" + "<br>" + devices[0]+"<br>");
+// document.write("Out :" + "<br>" + devices[1]+"<br>");
+// document.write("Out :" + "<br>" + devices[2]+"<br>");
+// document.write("Out :" + "<br>" + devices[3]+"<br>");
