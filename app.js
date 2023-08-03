@@ -29,3 +29,23 @@
 // document.write("Score of " + stdNames[0] + " is " + stdscore[0] + ".Percentage is: " + per +" %" +"<br>");
 // document.write("Score of " + stdNames[1] + " is " + stdscore[1] + ".Percentage is: " + per1 +" %" + "<br>");
 // document.write("Score of " + stdNames[2] + " is " + stdscore[2] + ".Percentage is: " + per2 +" %");
+
+
+//********** Array updatation  *********/
+
+// var colors = ["Red","Green","Yellow","Orange"];
+// colors.unshift("'Blue'");
+// colors.push("'Purple'");
+// colors.unshift("'Brown'","'Pink'");
+// colors.shift();
+// colors.pop();
+// colors.splice(0,2);
+// colors.splice(0,2,"'black'","'gray'")
+// document.write("1) " +colors[0] + "<br>");
+// document.write("2) " +colors[1] + "<br>");
+// document.write("3) " +colors[2] + "<br>");
+// document.write("4) " +colors[3] + "<br>");
+// document.write("5) " +colors[4] + "<br>");
+// document.write("6) " +colors[5] + "<br>");
+// document.write("7) " +colors[6] + "<br>");
+// document.write("8) " +colors[7] + "<br>");
