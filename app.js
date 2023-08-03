@@ -58,3 +58,12 @@
 // document.write("Score of students : " + scores + "<br>","<br>");
 // scores.sort();
 // document.write("Order by score of students : " +scores);
+
+
+//********** Array initialize & array copy method  *********/
+
+// var cities = ["Karachi","Lahore","Multan","Islamabad","Quetta","Pindi"];
+// var selectedCities = [cities.slice(2,5)];
+
+// document.write("Cities list :"+ "<br>" + cities + "<br>"+ "<br>");
+// document.write("selectedCities list :"+ "<br>" + selectedCities);
