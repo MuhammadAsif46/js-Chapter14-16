@@ -106,3 +106,12 @@
 // document.write("Out :" + "<br>" + devices[2]+"<br>");
 // document.write("Out :" + "<br>" + devices[1]+"<br>");
 // document.write("Out :" + "<br>" + devices[0]+"<br>");
+
+
+
+//********** write program & dropdown list  *********/
+
+// var phones = ["Apple","Samsung", "Motorola", "Nokia", "Sony & Haier"];
+
+// var drop =  document.getElementById("phones").innerHTML = drop; 
+// document.write(phones);
