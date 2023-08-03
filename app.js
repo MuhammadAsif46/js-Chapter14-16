@@ -67,3 +67,12 @@
 
 // document.write("Cities list :"+ "<br>" + cities + "<br>"+ "<br>");
 // document.write("selectedCities list :"+ "<br>" + selectedCities);
+
+
+//********** Create array & join method  *********/
+
+// var joined = ["This","Is","My","Cat"];
+
+// document.write("Array :" + "<br>" + joined + "<br>"+ "<br>");
+
+// document.write("String :" + "<br>" + joined.join(" "));
