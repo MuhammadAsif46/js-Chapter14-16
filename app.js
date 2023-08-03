@@ -91,3 +91,18 @@
 // document.write("Out :" + "<br>" + devices[1]+"<br>");
 // document.write("Out :" + "<br>" + devices[2]+"<br>");
 // document.write("Out :" + "<br>" + devices[3]+"<br>");
+
+
+//********** Create array & Lifo practice  *********/
+
+// var lifo = ["Last","In","Fisrt","Out"];
+
+// document.write(" 1) LIFO : "+ "<br>" + lifo +"<br>"+ "<br>");
+
+// var devices = ["keyboard","mouse","printer","moniter"]
+
+// document.write("2) Devices :" + "<br>" + devices + "<br>"+"<br>");
+// document.write("Out :" + "<br>" + devices[3]+"<br>");
+// document.write("Out :" + "<br>" + devices[2]+"<br>");
+// document.write("Out :" + "<br>" + devices[1]+"<br>");
+// document.write("Out :" + "<br>" + devices[0]+"<br>");
